@@ -90,7 +90,7 @@ Pull request reviews ensure quality and maintain momentum of changes to your pro
 #### In your review comments:
 
 - Identify potential issues, risks, and limitations.
-- Suggest changes and improvements.
+- Suggest changes and improvements
 - Share awareness of upcoming changes that the pull request doesn't account for.
 - Ask questions to verify shared understanding.
 - Highlight what the author did well and should keep doing.
